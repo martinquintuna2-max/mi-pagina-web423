@@ -1,0 +1,29 @@
+/* ============================================
+   SUPERMERCADO PREMIUM - ESTILOS CSS
+   Diseño Ultra-Limpio Estilo Apple
+   ============================================ */
+
+/* Variables CSS para consistencia */
+:root {
+    /* Colores principales */
+    --primary-color: #1a1a2e;
+    --primary-light: #16213e;
+    --accent-color: #0f3460;
+    --highlight-color: #e94560;
+    
+    /* Colores de estado */
+    --success-color: #27ae60;
+    --warning-color: #f39c12;
+    --error-color: #e74c3c;
+    --info-color: #3498db;
+    
+    /* Colores neutros */
+    --white: #ffffff;
+    --off-white: #f8f9fa;
+    --gray-100: #f1f3f5;
+    --gray-200: #e9ecef;
+    --gray-300: #dee2e6;
+    --gray-400: #ced4da;
+    --gray-500: #adb5bd;
+    --gray-600: #6c757d;
+    --
